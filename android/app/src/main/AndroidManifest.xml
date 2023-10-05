@@ -24,5 +24,6 @@
         </intent-filter>
       </activity>
         <service android:name="com.backgroundtask.MyTaskService" />
+        <service android:name="com.asterinet.react.bgactions.RNBackgroundActionsTask" />
     </application>
 </manifest>
